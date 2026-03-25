@@ -49,7 +49,9 @@ Explanation of each variable:
 ### 3. Run the server
 
 ```bash
-npm start
+npm start 
+or
+npx nodemon server.js
 ```
 
 By default the API runs on `http://localhost:3000`.
